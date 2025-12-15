@@ -1,0 +1,4 @@
+# No external packages required for this Lambda
+# boto3 is already included in AWS Lambda Python runtimes
+#requests==2.31.0
+#pandas==2.1.0
